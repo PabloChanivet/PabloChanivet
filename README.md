@@ -1,8 +1,17 @@
-- 👋 Hi, I’m @PabloChanivet
-- 👀 I’m interested in Big Data and cloud (AWS is my favorite)
-- 🌱 I’m currently learning healthcare exchange standards as FHIR, AWS architecturing, data integration architectures...
-- 💞️ I’m looking to collaborate on healthcare and telemedicine projects
-- 📫 How to reach me: pablo.chanivetgarcia@gmail.com
+# Hey, I'm Pablo
+
+- I am a FullStack Developer, Biomedical and Data Engineer and AWS Solutions Architect from [Madrid, Spain](https://youtu.be/oEbVbKufTII?feature=shared) 🇪🇸.
+- I have been working with exchange standards as FHIR, OpenEHR...
+- Techstack: `.js`,`.jsx`,`.ts`,`.html`,`.css`,`.scala`,`.java`,`.py`
+- Founder of [Aurea]
+
+![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:pablo.chanivetgarcia@gmail.com) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/ln/pablochanivetgarcia/)
+
+### GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PabloChanivet&theme=vue)](https://git.io/streak-stats)
+
+![PabloChanivet GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloChanivet&theme=shadow-green&show_icons=true)
 
 <!---
 PabloChanivet/PabloChanivet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
