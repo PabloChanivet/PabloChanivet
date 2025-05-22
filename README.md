@@ -5,7 +5,8 @@
 - Techstack: `.js`,`.jsx`,`.ts`,`.html`,`.css`,`.scala`,`.java`,`.py`
 - Founder of [Aurea]
 
-![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:pablo.chanivetgarcia@gmail.com) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/ln/pablochanivetgarcia/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pablo.chanivetgarcia@gmail.com)
+ [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/ln/pablochanivetgarcia/](https://www.linkedin.com/in/pablochanivetgarcia/))
 
 ### GitHub Stats
 
